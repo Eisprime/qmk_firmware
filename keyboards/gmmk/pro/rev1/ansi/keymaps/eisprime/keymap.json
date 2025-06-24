@@ -1,0 +1,6 @@
+{ "modules": [
+	"elpekenin/generics",
+	"elpekenin/indicators",
+	"elpekenin/ledmap" ,
+		]
+}
